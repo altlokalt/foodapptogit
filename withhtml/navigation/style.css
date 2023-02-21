@@ -1,0 +1,509 @@
+/* Navigation */
+
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+
+p {
+  margin: 0;
+}
+
+.navigation {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 1840px;
+  height: 520px;
+  padding: 80px;
+  box-sizing: border-box;
+  background-color: rgba(242, 242, 242, 1);
+}
+.group-229 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+.navigation-a {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  padding: 10px 80px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.sample-logo {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.group-112 {
+  position: absolute;
+  top: 1.78px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 28.44px;
+  box-sizing: border-box;
+}
+.union {
+  width: 22.52px;
+  height: 22.52px;
+}
+
+.photo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(0, 0, 0, 1);
+  font-size: 28.44px;
+  line-height: 28.44px;
+  font-family: Comfortaa, display;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: -0.43px;
+}
+
+.union-1 {
+  position: absolute;
+  top: 2.96px;
+  left: 0px;
+  width: 22.52px;
+  height: 22.52px;
+}
+
+.features {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.pricing {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.community {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.support {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.button {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 100%;
+  padding: 13px 34px 12px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(24, 160, 251, 1);
+}
+.register {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(255, 255, 255, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.navigation-b {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  padding: 10px 80px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.sample-logo-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.group-825 {
+  position: absolute;
+  top: 1.78px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 28.44px;
+  box-sizing: border-box;
+}
+.union-2 {
+  width: 22.52px;
+  height: 22.52px;
+}
+
+.photo-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(0, 0, 0, 1);
+  font-size: 28.44px;
+  line-height: 28.44px;
+  font-family: Comfortaa, display;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: -0.43px;
+}
+
+.union-3 {
+  position: absolute;
+  top: 2.96px;
+  left: 0px;
+  width: 22.52px;
+  height: 22.52px;
+}
+
+.features-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.pricing-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.community-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.support-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.button-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 100%;
+  padding: 13px 34px 12px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(24, 160, 251, 1);
+}
+.register-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(255, 255, 255, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.navigation-c {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  padding: 10px 80px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.sample-logo-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.union-4 {
+  width: 22.52px;
+  height: 22.52px;
+}
+
+.photo-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(0, 0, 0, 1);
+  font-size: 28.44px;
+  line-height: 28.44px;
+  font-family: Comfortaa, display;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: -0.43px;
+}
+
+.features-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.pricing-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.community-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.support-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.button-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 100%;
+  padding: 11px 40px 10px;
+  border: 1px solid rgba(24, 160, 251, 1);
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.log-in {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.button-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 100%;
+  padding: 13px 34px 12px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(24, 160, 251, 1);
+}
+.register-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(255, 255, 255, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.navigation-d {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  padding: 14px 80px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.sample-logo-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 100%;
+  box-sizing: border-box;
+}
+.union-5 {
+  width: 22.52px;
+  height: 22.52px;
+}
+
+.photo-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(0, 0, 0, 1);
+  font-size: 28.44px;
+  line-height: 28.44px;
+  font-family: Comfortaa, display;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: -0.43px;
+}
+
+.features-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.pricing-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.community-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.support-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}

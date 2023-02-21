@@ -1,0 +1,1542 @@
+/* Body layouts */
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap");
+
+p {
+  margin: 0;
+}
+
+.body-layouts {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 1840px;
+  height: 11407px;
+  padding: 80px;
+  box-sizing: border-box;
+  background-color: rgba(242, 242, 242, 1);
+}
+.group-645 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+.body-a {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  padding: 120px 80px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.snap-photos-and-share-li {
+  color: rgba(0, 0, 0, 1);
+  font-size: 48px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.72px;
+}
+
+.group-268 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.group {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.sed-ut-perspiciatis-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  box-sizing: border-box;
+}
+.sed-ut-perspiciatis {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.nemo-enim-ipsam-voluptatem-quia-voluptas-sit-aspernatur-aut-odit-aut-fugit-sed-quia-consequuntur-magni-dolores-eos-qui-ratione-voluptatem-sequi-nesciunt-neque-porro-quisquam-est {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  box-sizing: border-box;
+}
+.nemo-enim-ipsam-volupta {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.group-2 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.lorem-ipsum-dolor {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.amet-consectetur-adipi {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.group-921 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.group-3 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.nemo-enim-ipsam {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.consequuntur-magni-dol {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.group-4 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.tempor-incididunt {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.eos-qui-ratione-volupta {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.body-b {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  padding: 120px 80px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.snap-photos-and-share-li-1 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 48px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.72px;
+}
+
+.group-164 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.group-6 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.sed-ut-perspiciatis-2 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.nemo-enim-ipsam-volupta-2 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.button {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: fit-content;
+  padding: 11px 20px 10px;
+  border: 1px solid rgba(24, 160, 251, 1);
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.learn-more {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.group-22 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.lorem-ipsum-dolor-1 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.amet-consectetur-adipi-1 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.button-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: fit-content;
+  padding: 11px 20px 10px;
+  border: 1px solid rgba(24, 160, 251, 1);
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.learn-more-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.group-223 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.group-31 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.nemo-enim-ipsam-4 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.consequuntur-magni-dol-2 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.button-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: fit-content;
+  padding: 11px 20px 10px;
+  border: 1px solid rgba(24, 160, 251, 1);
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.learn-more-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.group-41 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.tempor-incididunt-1 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.eos-qui-ratione-volupta-2 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.button-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: fit-content;
+  padding: 11px 20px 10px;
+  border: 1px solid rgba(24, 160, 251, 1);
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.learn-more-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(24, 160, 251, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.body-c {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  padding: 120px 80px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.snap-photos-and-share-li-2 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 48px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.72px;
+}
+
+.group-183 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.group-12 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.sed-ut-perspiciatis-3 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.nemo-enim-ipsam-volupta-3 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.button-4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: fit-content;
+  padding: 13px 22px 12px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(24, 160, 251, 1);
+}
+.learn-more-4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(255, 255, 255, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.group-24 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.lorem-ipsum-dolor-2 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.amet-consectetur-adipi-2 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.button-5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: fit-content;
+  padding: 13px 22px 12px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(24, 160, 251, 1);
+}
+.learn-more-5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(255, 255, 255, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.group-019 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.group-32 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.nemo-enim-ipsam-6 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.consequuntur-magni-dol-3 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.button-6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: fit-content;
+  padding: 13px 22px 12px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(24, 160, 251, 1);
+}
+.learn-more-6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(255, 255, 255, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.group-42 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.tempor-incididunt-2 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.eos-qui-ratione-volupta-3 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.button-7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: fit-content;
+  padding: 13px 22px 12px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(24, 160, 251, 1);
+}
+.learn-more-7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(255, 255, 255, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.body-d {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  padding: 120px 80px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.snap-photos-and-share-li-3 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 48px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.72px;
+}
+
+.group-638 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.group-18 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.ellipse {
+  width: 200px;
+  height: 200px;
+}
+
+.sed-ut-perspiciatis-4 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.nemo-enim-ipsam-volupta-4 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.button-8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: fit-content;
+  padding: 13px 22px 12px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(24, 160, 251, 1);
+}
+.learn-more-8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(255, 255, 255, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.group-25 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.ellipse-1 {
+  width: 200px;
+  height: 200px;
+}
+
+.lorem-ipsum-dolor-3 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.amet-consectetur-adipi-3 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.button-9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: fit-content;
+  padding: 13px 22px 12px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: rgba(24, 160, 251, 1);
+}
+.learn-more-9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(255, 255, 255, 1);
+  font-size: 15px;
+  line-height: 15px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -0.22px;
+}
+
+.body-e {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 80px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.rectangle {
+  width: 750px;
+  height: 100%;
+}
+
+.group-21 {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.sed-ut-perspiciatis-und {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.nemo-enim-ipsam-volupta-5 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.body-f {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 80px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group-662 {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.sed-ut-perspiciatis-und1 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.nemo-enim-ipsam-volupta-6 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.rectangle-1 {
+  width: 750px;
+  height: 100%;
+}
+
+.body-g {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.rectangle-2 {
+  width: 830px;
+  height: 100%;
+}
+
+.group-23 {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.sed-ut-perspiciatis-und2 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.nemo-enim-ipsam-volupta-7 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.rectangle-21 {
+  width: 100%;
+  height: 1px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.sed-ut-perspiciatis-und3 {
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  line-height: 157%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.21px;
+}
+
+.body-h {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.rectangle-4 {
+  width: 830px;
+  height: 100%;
+}
+
+.group-27 {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.sed-ut-perspiciatis-und4 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.nemo-enim-ipsam-volupta-8 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.group-581 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-2 {
+  width: 44px;
+  height: 100%;
+}
+
+.sed-ut-perspiciatis-und5 {
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  line-height: 157%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.21px;
+}
+
+.group-252 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-3 {
+  width: 44px;
+  height: 100%;
+}
+
+.sed-ut-perspiciatis-und6 {
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  line-height: 157%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.21px;
+}
+
+.group-983 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-4 {
+  width: 44px;
+  height: 100%;
+}
+
+.sed-ut-perspiciatis-und7 {
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  line-height: 157%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.21px;
+}
+
+.body-i {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 100%;
+  padding: 120px 80px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group-769 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.snap-photos-and-share-li-4 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 48px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.72px;
+}
+
+.group-162 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+.group-28 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.ellipse-5 {
+  width: 108px;
+  height: 108px;
+}
+
+.sed-ut-perspiciatis-13 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.nemo-enim-ipsam-volupta-9 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.learn-more-11 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  box-sizing: border-box;
+}
+.learn-more-10 {
+  color: rgba(24, 160, 251, 1);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.27px;
+}
+
+.group-211 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.ellipse-6 {
+  width: 108px;
+  height: 108px;
+}
+
+.lorem-ipsum-dolor-4 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.amet-consectetur-adipi-4 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.learn-more-12 {
+  color: rgba(24, 160, 251, 1);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.27px;
+}
+
+.group-33 {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-7 {
+  width: 108px;
+  height: 108px;
+}
+
+.nemo-enim-ipsam-13 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.consequuntur-magni-dol-4 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.learn-more-13 {
+  color: rgba(24, 160, 251, 1);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.27px;
+}
+
+.body-j {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group-799 {
+  position: absolute;
+  top: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1256.27px;
+  height: 202px;
+  box-sizing: border-box;
+}
+.snap-photos-and-share-li-5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(0, 0, 0, 1);
+  font-size: 48px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: -0.72px;
+}
+
+.lorem-ipsum-dolor-sit-am {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 36px;
+  line-height: 139%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: -0.54px;
+}
+
+.group-756 {
+  position: absolute;
+  top: 422px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 1600px;
+  height: 740px;
+  box-sizing: border-box;
+}
+.group-34 {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.sed-ut-perspiciatis-14 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.nemo-enim-ipsam-volupta-10 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.lorem-ipsum-dolor-6 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.amet-consectetur-adipi-5 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.nemo-enim-ipsam-15 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.consequuntur-magni-dol-5 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.rectangle-5 {
+  width: 830px;
+  height: 100%;
+}
+
+.body-k {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group-522 {
+  position: absolute;
+  top: 120px;
+  display: flex;
+  flex-direction: column;
+  width: 1456px;
+  height: 1029px;
+  box-sizing: border-box;
+}
+.snap-photos-and-share-li-6 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 48px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.72px;
+}
+
+.lorem-ipsum-dolor-sit-am-1 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 36px;
+  line-height: 139%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+}
+
+.group-172 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+.group-37 {
+  position: relative;
+  width: 686px;
+  height: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.rectangle-6 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 400px;
+}
+
+.group-1038 {
+  position: absolute;
+  top: 471px;
+  display: flex;
+  flex-direction: column;
+  width: 552.3px;
+  height: 120px;
+  box-sizing: border-box;
+}
+.sed-ut-perspiciatis-15 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.nemo-enim-ipsam-volupta-11 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.group-3101 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 469px 111px 62px 62px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.lorem-ipsum-dolor-8 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.amet-consectetur-adipi-6 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.rectangle-7 {
+  position: absolute;
+  top: 494px;
+  left: 850px;
+  width: 686px;
+  height: 400px;
+}
+
+.body-l {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group-1039 {
+  position: absolute;
+  top: 120px;
+  display: flex;
+  flex-direction: column;
+  width: 1259.76px;
+  height: 274px;
+  box-sizing: border-box;
+}
+.snap-photos-and-share-li-7 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 48px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.72px;
+}
+
+.lorem-ipsum-dolor-sit-am-2 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 36px;
+  line-height: 139%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+}
+
+.rectangle-8 {
+  position: absolute;
+  top: 494px;
+  left: 593px;
+  width: 429px;
+  height: 275px;
+}
+
+.group-7610 {
+  position: absolute;
+  top: 494px;
+  display: flex;
+  flex-direction: row;
+  width: 1456px;
+  height: 560px;
+  box-sizing: border-box;
+}
+.group-43 {
+  position: relative;
+  width: 429px;
+  height: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.rectangle-9 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 275px;
+}
+
+.group-1098 {
+  position: absolute;
+  top: 346px;
+  display: flex;
+  flex-direction: column;
+  width: 277.53px;
+  height: 150px;
+  box-sizing: border-box;
+}
+.sed-ut-perspiciatis-16 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.nemo-enim-ipsam-volupta-12 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.group-976 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 344px 70px 92px 62px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.lorem-ipsum-dolor-10 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.amet-consectetur-adipi-7 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.group-068 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 344px 69px 92px 62px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+}
+.nemo-enim-ipsam-18 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+}
+
+.consequuntur-magni-dol-6 {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
+  line-height: 167%;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+}
+
+.rectangle-10 {
+  position: absolute;
+  top: 494px;
+  left: 1107px;
+  width: 429px;
+  height: 275px;
+}
